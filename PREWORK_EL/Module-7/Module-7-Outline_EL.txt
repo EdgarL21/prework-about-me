@@ -1,0 +1,15 @@
+Cheesepuff
+The cat can move in any direction to chase to cheesepuffs. There is a score counter with everytime the cat catches the cheesespuffs.
+The cheesepuffs also change location randomly when the cat catches the cheesepuffs.
+I used if statemtents to move the cat and to move the cheesepuffs.
+
+Cat Mouse
+There is a cat that moves only horizontally.
+It is able to shoot a ball that hits a mouse. 
+Once the mouse is hit, it randomly moves to another location.
+There is a score counter that keeps track of the times the mouse is hit by the ball.
+There is also a lives counter that keeps track of the times the mouse hits the cat.
+For the cat I used if statements to move the cat only horizontally.
+For the ball I used a loop to move the ball and an if statment to change direction of ball.
+For the mouse I used variables that kept track of the score and lives. 
+Used a loop and inside the loop used if statements to move the mouse only vertiacally and to reset the position of the mouse randomly everytime the ball touches the mouse or when the mouse touches the cat.

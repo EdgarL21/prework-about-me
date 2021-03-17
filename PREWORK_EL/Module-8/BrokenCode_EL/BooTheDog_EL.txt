@@ -1,0 +1,7 @@
+1. Indented properly so code would line up.
+2. Added <h1> to the title.
+3. Added multiple <p> to the "About Boo" paragraph, to separate into multiple smaller paragraphs instead of one big paragraph.
+4. Fixed the <img> so the picture would show in browser.
+5. Added <li> to list Boo's favorite things.
+6. Changed the file from error.js to logic.js because the javascrip wouldn't work on browser if the correct file wasn't being used.
+7. Added quotations marks to the words pink and click in the logic.js file, if they werent added those words wouldn't be a string.
